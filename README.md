@@ -1,5 +1,12 @@
 # pandas-challenge
 
+Project expores the possibilities pandas library provides for data analysis. 
+- PyCitySchools\PyCitySchools_starter.ipynb has the analysis scripted, described below.
+- PyCitySchools\Resources\schools_complete.csv and PyCitySchools\Resources\students_complete.csv provides the raw data for the analysis.
+- ANalysis report is captured in this readme below, in PyCitySchools_starter.ipynb as well as in "Pandas Challange Project report.docx" in repository.
+
+
+# PyCity Schols Analysis
 In this project we were given 2 different datasets,
 
 Schools data, which explains the schol name, ID, Budget, school type(Dstrict vs Chartered), and school size(number of students). Stored in the file named schools_complete.csv
